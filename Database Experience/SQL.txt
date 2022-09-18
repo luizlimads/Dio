@@ -1,0 +1,28 @@
+Sql
+manipulacao e de dados e execucao de operacaoes
+
+ddl- data definition language
+
+dml - data manipulation language
+
+dcl - data control language
+
+dql - data query language
+
+
+ddl dba's
+esquema, estrutura , criação de bds, renomear, usuario
+(CREATE|DROP|ALTER...INSERT|UPDATE|DELETE...RENAME|TRUNCATE|MERGE)
+
+
+DESC - DESCRICAO DA TABELA
+
+dml
+(INSERT|UPDATE..DELETE|MERGE...)
+
+dcl
+(GRANT|REVOKE)
+
+dql
+(SELECT)
+
